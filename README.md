@@ -8,6 +8,15 @@ This project analyses retail sales data and provides an interactive dashboard fo
 
 The dashboard allows users to filter sales records and explore key performance indicators, product performance, branch performance, customer behaviour and payment methods.
 
+## Live Dashboard
+
+The deployed dashboard can be accessed here:
+
+[Open the Sales Analytics Dashboard] (https://jjuuko-sales-dashboard.streamlit.app/)
+
+## Dashboard Preview
+
+![Sales Analytics Dashboard](images/dashboard_preview.png)
 ## Features
 
 - Total revenue analysis
