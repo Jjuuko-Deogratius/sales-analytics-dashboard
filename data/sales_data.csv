@@ -1,0 +1,501 @@
+Transaction_ID,Date,Branch,Product,Category,Quantity,Unit_Price,Payment_Method,Customer_Type
+TXN0191,2026-01-01,Entebbe,Shampoo,Personal Care,3,22000,Card,Regular
+TXN0113,2026-01-02,Entebbe,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,Regular
+TXN0499,2026-01-02,Jinja,Smartphone,Electronics,5,850000,Mobile Money,New
+TXN0140,2026-01-03,Jinja,Frying Pan,Home & Kitchen,2,65000,Cash,New
+TXN0150,2026-01-04,Jinja,Cooking Oil 3L,Groceries,5,28000,Cash,Regular
+TXN0412,2026-01-05,Entebbe,Rice 5kg,Groceries,3,32000,Mobile Money,New
+TXN0337,2026-01-05,Entebbe,Jacket,Clothing,1,150000,Mobile Money,New
+TXN0455,2026-01-06,Entebbe,Jacket,Clothing,3,150000,Cash,New
+TXN0229,2026-01-07,Jinja,Electric Kettle,Home & Kitchen,5,95000,Mobile Money,New
+TXN0098,2026-01-07,Kampala,Laptop Bag,Electronics,2,85000,Mobile Money,New
+TXN0124,2026-01-08,Kampala,Body Lotion,Personal Care,2,25000,Cash,New
+TXN0003,2026-01-08,Kampala,Smartphone,Electronics,2,850000,Cash,New
+TXN0138,2026-01-08,Entebbe,Sugar 2kg,Groceries,3,12000,Cash,Regular
+TXN0357,2026-01-09,Jinja,T-Shirt,Clothing,2,45000,Card,Regular
+TXN0040,2026-01-09,Entebbe,Toothpaste,Personal Care,1,12000,Card,New
+TXN0235,2026-01-09,Jinja,Cooking Oil 3L,Groceries,3,28000,Cash,Regular
+TXN0197,2026-01-10,Kampala,Electric Kettle,Home & Kitchen,5,95000,Card,Regular
+TXN0344,2026-01-10,Jinja,Cooking Oil 3L,Groceries,2,28000,Mobile Money,Regular
+TXN0402,2026-01-11,Kampala,Frying Pan,Home & Kitchen,1,65000,Cash,Regular
+TXN0171,2026-01-11,Entebbe,T-Shirt,Clothing,3,45000,Card,Regular
+TXN0008,2026-01-12,Jinja,Body Lotion,Personal Care,4,25000,Card,New
+TXN0086,2026-01-12,Jinja,Cooking Oil 3L,Groceries,4,28000,Cash,New
+TXN0339,2026-01-12,Entebbe,Laptop Bag,Electronics,5,85000,Mobile Money,New
+TXN0394,2026-01-13,Entebbe,Smartphone,Electronics,4,850000,Card,Regular
+TXN0069,2026-01-14,Kampala,Cooking Oil 3L,Groceries,4,28000,Mobile Money,New
+TXN0272,2026-01-14,Kampala,Toothpaste,Personal Care,2,12000,Card,New
+TXN0151,2026-01-14,Jinja,Smartphone,Electronics,3,850000,Card,New
+TXN0296,2026-01-15,Entebbe,Smartphone,Electronics,3,850000,Cash,New
+TXN0453,2026-01-15,Entebbe,Body Lotion,Personal Care,2,25000,Card,Regular
+TXN0457,2026-01-16,Kampala,Frying Pan,Home & Kitchen,4,65000,Cash,Regular
+TXN0051,2026-01-16,Kampala,Toothpaste,Personal Care,4,12000,Cash,Regular
+TXN0431,2026-01-16,Kampala,Jeans,Clothing,5,85000,Cash,New
+TXN0023,2026-01-17,Entebbe,T-Shirt,Clothing,4,45000,Card,Regular
+TXN0365,2026-01-17,Jinja,Jacket,Clothing,5,150000,Mobile Money,Regular
+TXN0230,2026-01-17,Jinja,Jeans,Clothing,4,85000,Card,Regular
+TXN0033,2026-01-18,Jinja,Shampoo,Personal Care,2,22000,Cash,Regular
+TXN0456,2026-01-19,Kampala,T-Shirt,Clothing,4,45000,Mobile Money,New
+TXN0363,2026-01-19,Entebbe,Laptop Bag,Electronics,2,85000,Card,Regular
+TXN0162,2026-01-20,Kampala,Frying Pan,Home & Kitchen,1,65000,Mobile Money,Regular
+TXN0495,2026-01-20,Jinja,Shampoo,Personal Care,1,22000,Cash,Regular
+TXN0283,2026-01-20,Entebbe,Toothpaste,Personal Care,5,12000,Mobile Money,Regular
+TXN0423,2026-01-21,Entebbe,Jacket,Clothing,4,150000,Card,Regular
+TXN0287,2026-01-21,Entebbe,Frying Pan,Home & Kitchen,3,65000,Card,Regular
+TXN0122,2026-01-21,Entebbe,Shampoo,Personal Care,1,22000,Card,New
+TXN0251,2026-01-21,Entebbe,Headphones,Electronics,5,120000,Cash,New
+TXN0201,2026-01-21,Entebbe,Jeans,Clothing,5,85000,Mobile Money,Regular
+TXN0273,2026-01-21,Entebbe,Jeans,Clothing,4,85000,Card,Regular
+TXN0058,2026-01-21,Entebbe,T-Shirt,Clothing,5,45000,Card,Regular
+TXN0300,2026-01-22,Jinja,Jacket,Clothing,2,150000,Cash,New
+TXN0369,2026-01-23,Kampala,T-Shirt,Clothing,3,45000,Mobile Money,Regular
+TXN0172,2026-01-24,Kampala,Smartphone,Electronics,5,850000,Card,New
+TXN0258,2026-01-24,Kampala,Headphones,Electronics,1,120000,Mobile Money,New
+TXN0389,2026-01-25,Kampala,Laptop Bag,Electronics,3,85000,Mobile Money,Regular
+TXN0219,2026-01-25,Jinja,Jeans,Clothing,1,85000,Mobile Money,Regular
+TXN0400,2026-01-25,Entebbe,Laptop Bag,Electronics,3,85000,Mobile Money,Regular
+TXN0204,2026-01-26,Jinja,Blender,Home & Kitchen,1,180000,Mobile Money,New
+TXN0198,2026-01-26,Entebbe,Shampoo,Personal Care,1,22000,Card,Regular
+TXN0350,2026-01-27,Kampala,Sugar 2kg,Groceries,3,12000,Card,Regular
+TXN0075,2026-01-27,Entebbe,Jeans,Clothing,5,85000,Mobile Money,New
+TXN0290,2026-01-27,Kampala,Rice 5kg,Groceries,3,32000,Cash,New
+TXN0001,2026-01-29,Kampala,Jeans,Clothing,3,85000,Cash,New
+TXN0022,2026-01-29,Kampala,Shampoo,Personal Care,2,22000,Card,Regular
+TXN0246,2026-01-30,Jinja,Frying Pan,Home & Kitchen,1,65000,Mobile Money,Regular
+TXN0166,2026-01-30,Jinja,Blender,Home & Kitchen,2,180000,Card,New
+TXN0224,2026-01-30,Entebbe,Body Lotion,Personal Care,1,25000,Cash,New
+TXN0360,2026-01-30,Kampala,Rice 5kg,Groceries,2,32000,Mobile Money,Regular
+TXN0279,2026-01-31,Kampala,Sugar 2kg,Groceries,4,12000,Card,Regular
+TXN0445,2026-01-31,Jinja,Jacket,Clothing,3,150000,Mobile Money,New
+TXN0057,2026-01-31,Jinja,Blender,Home & Kitchen,2,180000,Card,New
+TXN0146,2026-01-31,Jinja,Rice 5kg,Groceries,2,32000,Mobile Money,New
+TXN0483,2026-01-31,Jinja,Jacket,Clothing,4,150000,Cash,New
+TXN0088,2026-02-01,Jinja,Jeans,Clothing,3,85000,Card,Regular
+TXN0238,2026-02-01,Entebbe,Rice 5kg,Groceries,1,32000,Card,New
+TXN0421,2026-02-01,Jinja,Cooking Oil 3L,Groceries,5,28000,Mobile Money,Regular
+TXN0103,2026-02-01,Entebbe,Toothpaste,Personal Care,2,12000,Mobile Money,Regular
+TXN0125,2026-02-02,Entebbe,Rice 5kg,Groceries,1,32000,Card,New
+TXN0240,2026-02-02,Jinja,Rice 5kg,Groceries,2,32000,Cash,New
+TXN0461,2026-02-02,Jinja,Frying Pan,Home & Kitchen,2,65000,Cash,New
+TXN0090,2026-02-02,Kampala,Frying Pan,Home & Kitchen,4,65000,Card,Regular
+TXN0060,2026-02-03,Jinja,Blender,Home & Kitchen,3,180000,Mobile Money,Regular
+TXN0280,2026-02-03,Entebbe,Laptop Bag,Electronics,5,85000,Card,New
+TXN0446,2026-02-04,Entebbe,Rice 5kg,Groceries,2,32000,Mobile Money,Regular
+TXN0066,2026-02-04,Entebbe,Toothpaste,Personal Care,1,12000,Cash,New
+TXN0021,2026-02-05,Jinja,Rice 5kg,Groceries,4,32000,Cash,New
+TXN0268,2026-02-06,Jinja,Laptop Bag,Electronics,4,85000,Cash,New
+TXN0401,2026-02-06,Kampala,Body Lotion,Personal Care,5,25000,Card,Regular
+TXN0333,2026-02-06,Entebbe,Jacket,Clothing,4,150000,Cash,Regular
+TXN0242,2026-02-07,Kampala,Cooking Oil 3L,Groceries,5,28000,Mobile Money,New
+TXN0299,2026-02-08,Kampala,Frying Pan,Home & Kitchen,4,65000,Cash,Regular
+TXN0192,2026-02-08,Entebbe,Shampoo,Personal Care,5,22000,Mobile Money,Regular
+TXN0329,2026-02-08,Jinja,Rice 5kg,Groceries,5,32000,Card,Regular
+TXN0109,2026-02-08,Kampala,Laptop Bag,Electronics,4,85000,Card,New
+TXN0291,2026-02-09,Jinja,T-Shirt,Clothing,1,45000,Cash,Regular
+TXN0366,2026-02-10,Jinja,Shampoo,Personal Care,2,22000,Mobile Money,New
+TXN0105,2026-02-10,Jinja,Toothpaste,Personal Care,4,12000,Mobile Money,Regular
+TXN0078,2026-02-10,Jinja,Cooking Oil 3L,Groceries,1,28000,Mobile Money,New
+TXN0026,2026-02-10,Entebbe,Blender,Home & Kitchen,1,180000,Card,Regular
+TXN0390,2026-02-10,Entebbe,Rice 5kg,Groceries,5,32000,Card,Regular
+TXN0177,2026-02-11,Entebbe,Shampoo,Personal Care,4,22000,Card,Regular
+TXN0437,2026-02-11,Jinja,Sugar 2kg,Groceries,4,12000,Card,Regular
+TXN0314,2026-02-11,Kampala,Laptop Bag,Electronics,5,85000,Cash,Regular
+TXN0223,2026-02-12,Entebbe,Shampoo,Personal Care,4,22000,Mobile Money,Regular
+TXN0034,2026-02-12,Entebbe,Frying Pan,Home & Kitchen,5,65000,Card,Regular
+TXN0374,2026-02-12,Kampala,Cooking Oil 3L,Groceries,3,28000,Card,New
+TXN0432,2026-02-14,Entebbe,Toothpaste,Personal Care,2,12000,Cash,Regular
+TXN0341,2026-02-16,Kampala,Jeans,Clothing,1,85000,Card,Regular
+TXN0458,2026-02-16,Kampala,Blender,Home & Kitchen,4,180000,Mobile Money,Regular
+TXN0056,2026-02-17,Kampala,Shampoo,Personal Care,5,22000,Cash,New
+TXN0438,2026-02-17,Kampala,Jacket,Clothing,3,150000,Mobile Money,New
+TXN0218,2026-02-18,Jinja,Jeans,Clothing,3,85000,Card,New
+TXN0194,2026-02-18,Jinja,Shampoo,Personal Care,2,22000,Card,Regular
+TXN0053,2026-02-18,Entebbe,Laptop Bag,Electronics,2,85000,Cash,New
+TXN0464,2026-02-18,Jinja,Cooking Oil 3L,Groceries,1,28000,Cash,Regular
+TXN0181,2026-02-18,Jinja,Smartphone,Electronics,3,850000,Card,Regular
+TXN0010,2026-02-19,Jinja,T-Shirt,Clothing,1,45000,Cash,New
+TXN0149,2026-02-19,Entebbe,Headphones,Electronics,2,120000,Mobile Money,New
+TXN0004,2026-02-20,Jinja,Frying Pan,Home & Kitchen,5,65000,Mobile Money,New
+TXN0367,2026-02-21,Kampala,Headphones,Electronics,2,120000,Mobile Money,New
+TXN0478,2026-02-22,Entebbe,Cooking Oil 3L,Groceries,1,28000,Mobile Money,Regular
+TXN0415,2026-02-23,Jinja,Frying Pan,Home & Kitchen,3,65000,Card,Regular
+TXN0013,2026-02-23,Jinja,Sugar 2kg,Groceries,3,12000,Card,New
+TXN0110,2026-02-24,Kampala,Jacket,Clothing,4,150000,Mobile Money,Regular
+TXN0468,2026-02-25,Kampala,Frying Pan,Home & Kitchen,2,65000,Card,Regular
+TXN0497,2026-02-25,Jinja,Smartphone,Electronics,4,850000,Mobile Money,New
+TXN0241,2026-02-25,Kampala,T-Shirt,Clothing,3,45000,Cash,New
+TXN0115,2026-02-26,Entebbe,Electric Kettle,Home & Kitchen,4,95000,Mobile Money,New
+TXN0323,2026-02-26,Entebbe,Toothpaste,Personal Care,3,12000,Cash,Regular
+TXN0143,2026-02-26,Entebbe,Cooking Oil 3L,Groceries,2,28000,Mobile Money,Regular
+TXN0248,2026-02-26,Jinja,Frying Pan,Home & Kitchen,1,65000,Card,Regular
+TXN0277,2026-02-26,Entebbe,Smartphone,Electronics,5,850000,Cash,New
+TXN0311,2026-02-27,Kampala,Rice 5kg,Groceries,2,32000,Cash,Regular
+TXN0123,2026-02-27,Jinja,Sugar 2kg,Groceries,1,12000,Card,New
+TXN0463,2026-02-28,Kampala,Shampoo,Personal Care,4,22000,Mobile Money,New
+TXN0236,2026-03-02,Entebbe,Electric Kettle,Home & Kitchen,1,95000,Card,Regular
+TXN0356,2026-03-02,Jinja,Headphones,Electronics,3,120000,Mobile Money,Regular
+TXN0076,2026-03-02,Kampala,Toothpaste,Personal Care,2,12000,Mobile Money,New
+TXN0484,2026-03-03,Jinja,Blender,Home & Kitchen,3,180000,Mobile Money,Regular
+TXN0331,2026-03-03,Entebbe,Smartphone,Electronics,5,850000,Mobile Money,New
+TXN0107,2026-03-03,Entebbe,Jeans,Clothing,4,85000,Cash,Regular
+TXN0136,2026-03-04,Kampala,Shampoo,Personal Care,3,22000,Mobile Money,New
+TXN0383,2026-03-04,Jinja,Electric Kettle,Home & Kitchen,4,95000,Mobile Money,Regular
+TXN0106,2026-03-05,Jinja,Body Lotion,Personal Care,3,25000,Card,Regular
+TXN0448,2026-03-05,Jinja,Body Lotion,Personal Care,5,25000,Cash,Regular
+TXN0037,2026-03-05,Kampala,Headphones,Electronics,1,120000,Mobile Money,New
+TXN0048,2026-03-05,Kampala,Electric Kettle,Home & Kitchen,4,95000,Card,New
+TXN0418,2026-03-05,Entebbe,Rice 5kg,Groceries,5,32000,Mobile Money,New
+TXN0024,2026-03-06,Jinja,Frying Pan,Home & Kitchen,1,65000,Card,New
+TXN0210,2026-03-07,Jinja,Electric Kettle,Home & Kitchen,1,95000,Mobile Money,Regular
+TXN0059,2026-03-08,Kampala,Toothpaste,Personal Care,3,12000,Cash,Regular
+TXN0083,2026-03-08,Kampala,Headphones,Electronics,5,120000,Mobile Money,New
+TXN0120,2026-03-08,Entebbe,Smartphone,Electronics,3,850000,Cash,Regular
+TXN0396,2026-03-09,Jinja,Toothpaste,Personal Care,3,12000,Mobile Money,Regular
+TXN0165,2026-03-09,Jinja,Toothpaste,Personal Care,5,12000,Card,New
+TXN0019,2026-03-09,Kampala,Laptop Bag,Electronics,2,85000,Card,Regular
+TXN0245,2026-03-09,Kampala,Laptop Bag,Electronics,2,85000,Card,Regular
+TXN0017,2026-03-10,Kampala,Blender,Home & Kitchen,2,180000,Card,Regular
+TXN0167,2026-03-10,Kampala,Toothpaste,Personal Care,1,12000,Cash,New
+TXN0108,2026-03-11,Entebbe,Rice 5kg,Groceries,3,32000,Card,New
+TXN0471,2026-03-12,Kampala,Cooking Oil 3L,Groceries,5,28000,Card,New
+TXN0252,2026-03-12,Jinja,Laptop Bag,Electronics,5,85000,Card,Regular
+TXN0006,2026-03-13,Kampala,Sugar 2kg,Groceries,2,12000,Mobile Money,New
+TXN0067,2026-03-14,Jinja,Cooking Oil 3L,Groceries,2,28000,Card,Regular
+TXN0183,2026-03-15,Entebbe,Toothpaste,Personal Care,4,12000,Cash,New
+TXN0327,2026-03-15,Entebbe,Smartphone,Electronics,2,850000,Card,Regular
+TXN0217,2026-03-15,Kampala,Shampoo,Personal Care,5,22000,Mobile Money,New
+TXN0011,2026-03-16,Kampala,Body Lotion,Personal Care,2,25000,Cash,Regular
+TXN0215,2026-03-17,Kampala,Jacket,Clothing,4,150000,Mobile Money,New
+TXN0342,2026-03-17,Kampala,Smartphone,Electronics,1,850000,Cash,New
+TXN0205,2026-03-18,Kampala,Jacket,Clothing,1,150000,Mobile Money,New
+TXN0212,2026-03-18,Jinja,T-Shirt,Clothing,4,45000,Card,Regular
+TXN0278,2026-03-19,Kampala,Rice 5kg,Groceries,2,32000,Mobile Money,Regular
+TXN0470,2026-03-19,Kampala,Rice 5kg,Groceries,5,32000,Cash,Regular
+TXN0213,2026-03-19,Kampala,Electric Kettle,Home & Kitchen,4,95000,Mobile Money,New
+TXN0168,2026-03-20,Jinja,Body Lotion,Personal Care,5,25000,Mobile Money,Regular
+TXN0392,2026-03-20,Entebbe,Electric Kettle,Home & Kitchen,1,95000,Cash,Regular
+TXN0444,2026-03-20,Kampala,Electric Kettle,Home & Kitchen,4,95000,Card,Regular
+TXN0343,2026-03-21,Jinja,Sugar 2kg,Groceries,4,12000,Card,Regular
+TXN0310,2026-03-21,Kampala,Sugar 2kg,Groceries,2,12000,Mobile Money,Regular
+TXN0128,2026-03-21,Jinja,Toothpaste,Personal Care,4,12000,Mobile Money,New
+TXN0054,2026-03-22,Kampala,Jacket,Clothing,1,150000,Card,Regular
+TXN0179,2026-03-22,Entebbe,Headphones,Electronics,3,120000,Cash,Regular
+TXN0487,2026-03-23,Kampala,Body Lotion,Personal Care,3,25000,Mobile Money,Regular
+TXN0030,2026-03-24,Entebbe,T-Shirt,Clothing,1,45000,Cash,Regular
+TXN0441,2026-03-24,Kampala,Electric Kettle,Home & Kitchen,1,95000,Mobile Money,Regular
+TXN0016,2026-03-25,Kampala,Jeans,Clothing,2,85000,Cash,Regular
+TXN0285,2026-03-25,Kampala,Smartphone,Electronics,5,850000,Mobile Money,Regular
+TXN0451,2026-03-25,Jinja,Laptop Bag,Electronics,4,85000,Cash,New
+TXN0081,2026-03-26,Entebbe,Blender,Home & Kitchen,1,180000,Mobile Money,Regular
+TXN0428,2026-03-26,Jinja,Blender,Home & Kitchen,4,180000,Cash,New
+TXN0490,2026-03-26,Kampala,Rice 5kg,Groceries,4,32000,Card,New
+TXN0288,2026-03-27,Kampala,Rice 5kg,Groceries,1,32000,Card,New
+TXN0482,2026-03-27,Entebbe,Rice 5kg,Groceries,1,32000,Cash,New
+TXN0070,2026-03-27,Kampala,Smartphone,Electronics,3,850000,Cash,Regular
+TXN0121,2026-03-28,Entebbe,Sugar 2kg,Groceries,3,12000,Mobile Money,Regular
+TXN0313,2026-03-28,Jinja,Jeans,Clothing,2,85000,Card,Regular
+TXN0116,2026-03-28,Jinja,Blender,Home & Kitchen,4,180000,Card,New
+TXN0046,2026-03-28,Kampala,Jacket,Clothing,2,150000,Cash,New
+TXN0405,2026-03-28,Jinja,T-Shirt,Clothing,5,45000,Card,Regular
+TXN0422,2026-03-30,Kampala,Shampoo,Personal Care,3,22000,Cash,Regular
+TXN0063,2026-03-31,Kampala,Toothpaste,Personal Care,2,12000,Mobile Money,Regular
+TXN0460,2026-03-31,Kampala,Jeans,Clothing,2,85000,Card,Regular
+TXN0417,2026-04-01,Jinja,Frying Pan,Home & Kitchen,3,65000,Card,Regular
+TXN0139,2026-04-01,Entebbe,Rice 5kg,Groceries,3,32000,Mobile Money,Regular
+TXN0261,2026-04-01,Jinja,Blender,Home & Kitchen,4,180000,Card,New
+TXN0206,2026-04-02,Entebbe,Cooking Oil 3L,Groceries,4,28000,Cash,New
+TXN0335,2026-04-03,Kampala,Frying Pan,Home & Kitchen,5,65000,Card,New
+TXN0247,2026-04-03,Jinja,Body Lotion,Personal Care,5,25000,Cash,Regular
+TXN0074,2026-04-04,Kampala,Cooking Oil 3L,Groceries,3,28000,Cash,New
+TXN0359,2026-04-04,Entebbe,Frying Pan,Home & Kitchen,3,65000,Card,Regular
+TXN0387,2026-04-05,Jinja,Body Lotion,Personal Care,5,25000,Cash,Regular
+TXN0227,2026-04-05,Jinja,Electric Kettle,Home & Kitchen,3,95000,Card,Regular
+TXN0346,2026-04-05,Entebbe,Body Lotion,Personal Care,4,25000,Card,Regular
+TXN0358,2026-04-06,Entebbe,Sugar 2kg,Groceries,1,12000,Card,New
+TXN0325,2026-04-06,Kampala,Headphones,Electronics,1,120000,Mobile Money,New
+TXN0302,2026-04-06,Entebbe,Sugar 2kg,Groceries,4,12000,Mobile Money,Regular
+TXN0009,2026-04-07,Kampala,Toothpaste,Personal Care,5,12000,Mobile Money,Regular
+TXN0416,2026-04-07,Entebbe,Frying Pan,Home & Kitchen,2,65000,Mobile Money,Regular
+TXN0459,2026-04-07,Entebbe,Electric Kettle,Home & Kitchen,1,95000,Card,New
+TXN0214,2026-04-08,Jinja,Rice 5kg,Groceries,3,32000,Card,Regular
+TXN0007,2026-04-08,Kampala,Headphones,Electronics,3,120000,Mobile Money,Regular
+TXN0347,2026-04-09,Entebbe,Toothpaste,Personal Care,2,12000,Mobile Money,Regular
+TXN0118,2026-04-11,Jinja,Toothpaste,Personal Care,5,12000,Card,New
+TXN0324,2026-04-12,Jinja,Smartphone,Electronics,3,850000,Cash,Regular
+TXN0397,2026-04-13,Kampala,Smartphone,Electronics,5,850000,Card,New
+TXN0100,2026-04-13,Kampala,Electric Kettle,Home & Kitchen,2,95000,Card,New
+TXN0440,2026-04-13,Jinja,Headphones,Electronics,1,120000,Cash,New
+TXN0231,2026-04-15,Kampala,Jeans,Clothing,2,85000,Cash,New
+TXN0043,2026-04-15,Kampala,Body Lotion,Personal Care,1,25000,Cash,Regular
+TXN0050,2026-04-15,Entebbe,Laptop Bag,Electronics,4,85000,Cash,Regular
+TXN0089,2026-04-15,Entebbe,Jeans,Clothing,4,85000,Card,Regular
+TXN0141,2026-04-15,Entebbe,Jacket,Clothing,5,150000,Cash,Regular
+TXN0185,2026-04-15,Kampala,Frying Pan,Home & Kitchen,2,65000,Cash,Regular
+TXN0176,2026-04-15,Entebbe,Sugar 2kg,Groceries,3,12000,Card,New
+TXN0370,2026-04-16,Entebbe,Frying Pan,Home & Kitchen,5,65000,Cash,New
+TXN0207,2026-04-16,Jinja,Frying Pan,Home & Kitchen,2,65000,Cash,New
+TXN0315,2026-04-16,Entebbe,Smartphone,Electronics,2,850000,Mobile Money,Regular
+TXN0256,2026-04-17,Jinja,Blender,Home & Kitchen,1,180000,Mobile Money,Regular
+TXN0234,2026-04-17,Jinja,Toothpaste,Personal Care,1,12000,Mobile Money,Regular
+TXN0099,2026-04-17,Jinja,Electric Kettle,Home & Kitchen,5,95000,Cash,Regular
+TXN0474,2026-04-17,Entebbe,Jacket,Clothing,2,150000,Mobile Money,Regular
+TXN0270,2026-04-18,Entebbe,Blender,Home & Kitchen,3,180000,Cash,Regular
+TXN0132,2026-04-18,Entebbe,Smartphone,Electronics,1,850000,Mobile Money,Regular
+TXN0044,2026-04-19,Entebbe,Sugar 2kg,Groceries,4,12000,Card,New
+TXN0265,2026-04-20,Jinja,Body Lotion,Personal Care,5,25000,Card,New
+TXN0349,2026-04-21,Jinja,Headphones,Electronics,2,120000,Card,Regular
+TXN0087,2026-04-21,Kampala,Sugar 2kg,Groceries,3,12000,Card,Regular
+TXN0286,2026-04-22,Kampala,Headphones,Electronics,2,120000,Mobile Money,Regular
+TXN0175,2026-04-22,Jinja,T-Shirt,Clothing,4,45000,Cash,Regular
+TXN0135,2026-04-22,Jinja,Electric Kettle,Home & Kitchen,5,95000,Mobile Money,Regular
+TXN0064,2026-04-23,Jinja,Laptop Bag,Electronics,3,85000,Card,New
+TXN0301,2026-04-23,Entebbe,Jacket,Clothing,5,150000,Card,New
+TXN0294,2026-04-24,Jinja,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,New
+TXN0182,2026-04-24,Kampala,Jeans,Clothing,2,85000,Mobile Money,New
+TXN0094,2026-04-24,Entebbe,Electric Kettle,Home & Kitchen,2,95000,Card,Regular
+TXN0104,2026-04-24,Jinja,Body Lotion,Personal Care,5,25000,Mobile Money,Regular
+TXN0442,2026-04-25,Entebbe,Rice 5kg,Groceries,3,32000,Mobile Money,New
+TXN0352,2026-04-25,Kampala,Sugar 2kg,Groceries,3,12000,Card,Regular
+TXN0047,2026-04-25,Kampala,Frying Pan,Home & Kitchen,4,65000,Cash,Regular
+TXN0351,2026-04-25,Jinja,Cooking Oil 3L,Groceries,4,28000,Cash,Regular
+TXN0322,2026-04-26,Jinja,Cooking Oil 3L,Groceries,2,28000,Mobile Money,New
+TXN0255,2026-04-26,Kampala,Blender,Home & Kitchen,4,180000,Mobile Money,Regular
+TXN0012,2026-04-27,Jinja,Cooking Oil 3L,Groceries,3,28000,Cash,Regular
+TXN0188,2026-04-27,Jinja,Rice 5kg,Groceries,2,32000,Mobile Money,New
+TXN0233,2026-04-27,Entebbe,Blender,Home & Kitchen,5,180000,Mobile Money,New
+TXN0393,2026-04-28,Kampala,Frying Pan,Home & Kitchen,2,65000,Card,Regular
+TXN0133,2026-04-28,Jinja,Jeans,Clothing,2,85000,Mobile Money,New
+TXN0462,2026-04-29,Jinja,Cooking Oil 3L,Groceries,5,28000,Mobile Money,Regular
+TXN0137,2026-04-29,Jinja,Body Lotion,Personal Care,5,25000,Card,Regular
+TXN0015,2026-04-29,Entebbe,Laptop Bag,Electronics,3,85000,Card,New
+TXN0385,2026-04-29,Kampala,Electric Kettle,Home & Kitchen,3,95000,Card,New
+TXN0169,2026-04-30,Jinja,Headphones,Electronics,3,120000,Card,Regular
+TXN0111,2026-04-30,Entebbe,Frying Pan,Home & Kitchen,1,65000,Cash,Regular
+TXN0388,2026-04-30,Kampala,Rice 5kg,Groceries,3,32000,Mobile Money,New
+TXN0117,2026-04-30,Kampala,Shampoo,Personal Care,5,22000,Card,New
+TXN0336,2026-05-01,Kampala,Blender,Home & Kitchen,4,180000,Mobile Money,Regular
+TXN0200,2026-05-01,Entebbe,Headphones,Electronics,3,120000,Card,Regular
+TXN0079,2026-05-01,Kampala,Shampoo,Personal Care,2,22000,Mobile Money,Regular
+TXN0403,2026-05-02,Jinja,Body Lotion,Personal Care,4,25000,Cash,New
+TXN0424,2026-05-03,Kampala,Jacket,Clothing,2,150000,Card,Regular
+TXN0420,2026-05-03,Entebbe,Sugar 2kg,Groceries,5,12000,Card,Regular
+TXN0154,2026-05-03,Kampala,Cooking Oil 3L,Groceries,1,28000,Mobile Money,Regular
+TXN0410,2026-05-03,Kampala,T-Shirt,Clothing,5,45000,Card,Regular
+TXN0153,2026-05-03,Entebbe,Electric Kettle,Home & Kitchen,3,95000,Cash,New
+TXN0148,2026-05-04,Entebbe,Jacket,Clothing,5,150000,Card,Regular
+TXN0232,2026-05-07,Kampala,Cooking Oil 3L,Groceries,1,28000,Cash,New
+TXN0433,2026-05-07,Kampala,Body Lotion,Personal Care,3,25000,Cash,New
+TXN0332,2026-05-08,Jinja,Headphones,Electronics,5,120000,Cash,New
+TXN0373,2026-05-09,Kampala,Blender,Home & Kitchen,1,180000,Card,New
+TXN0170,2026-05-09,Jinja,Cooking Oil 3L,Groceries,4,28000,Mobile Money,New
+TXN0436,2026-05-10,Entebbe,Shampoo,Personal Care,3,22000,Cash,New
+TXN0295,2026-05-10,Kampala,Sugar 2kg,Groceries,3,12000,Mobile Money,Regular
+TXN0082,2026-05-11,Entebbe,Jeans,Clothing,5,85000,Mobile Money,New
+TXN0289,2026-05-11,Kampala,Frying Pan,Home & Kitchen,3,65000,Mobile Money,New
+TXN0486,2026-05-12,Entebbe,Sugar 2kg,Groceries,4,12000,Cash,Regular
+TXN0354,2026-05-12,Jinja,Sugar 2kg,Groceries,2,12000,Cash,New
+TXN0180,2026-05-12,Kampala,Shampoo,Personal Care,5,22000,Mobile Money,Regular
+TXN0275,2026-05-12,Kampala,Body Lotion,Personal Care,3,25000,Mobile Money,New
+TXN0096,2026-05-12,Jinja,Cooking Oil 3L,Groceries,5,28000,Mobile Money,New
+TXN0174,2026-05-13,Jinja,Electric Kettle,Home & Kitchen,4,95000,Mobile Money,New
+TXN0375,2026-05-13,Entebbe,Sugar 2kg,Groceries,1,12000,Mobile Money,New
+TXN0321,2026-05-13,Kampala,Jacket,Clothing,3,150000,Cash,New
+TXN0134,2026-05-14,Jinja,Jacket,Clothing,3,150000,Card,Regular
+TXN0158,2026-05-14,Entebbe,Body Lotion,Personal Care,4,25000,Mobile Money,Regular
+TXN0427,2026-05-16,Kampala,Jeans,Clothing,2,85000,Cash,New
+TXN0500,2026-05-16,Jinja,Smartphone,Electronics,3,850000,Card,Regular
+TXN0055,2026-05-16,Kampala,Frying Pan,Home & Kitchen,1,65000,Card,New
+TXN0377,2026-05-17,Kampala,T-Shirt,Clothing,5,45000,Card,New
+TXN0131,2026-05-17,Entebbe,Sugar 2kg,Groceries,3,12000,Cash,Regular
+TXN0485,2026-05-17,Jinja,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,Regular
+TXN0062,2026-05-18,Kampala,Headphones,Electronics,5,120000,Mobile Money,New
+TXN0147,2026-05-18,Jinja,Jacket,Clothing,2,150000,Cash,New
+TXN0479,2026-05-18,Jinja,Headphones,Electronics,2,120000,Cash,Regular
+TXN0025,2026-05-18,Entebbe,Jeans,Clothing,3,85000,Cash,Regular
+TXN0395,2026-05-18,Kampala,Cooking Oil 3L,Groceries,1,28000,Mobile Money,New
+TXN0222,2026-05-19,Entebbe,Body Lotion,Personal Care,5,25000,Card,Regular
+TXN0494,2026-05-19,Jinja,Laptop Bag,Electronics,1,85000,Card,New
+TXN0035,2026-05-19,Jinja,Rice 5kg,Groceries,2,32000,Card,Regular
+TXN0211,2026-05-20,Kampala,Jeans,Clothing,1,85000,Mobile Money,Regular
+TXN0450,2026-05-21,Jinja,Smartphone,Electronics,2,850000,Card,New
+TXN0491,2026-05-21,Jinja,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,Regular
+TXN0429,2026-05-21,Kampala,Smartphone,Electronics,4,850000,Card,Regular
+TXN0092,2026-05-21,Kampala,Blender,Home & Kitchen,3,180000,Mobile Money,New
+TXN0399,2026-05-21,Entebbe,Body Lotion,Personal Care,5,25000,Card,New
+TXN0038,2026-05-22,Kampala,T-Shirt,Clothing,5,45000,Cash,New
+TXN0368,2026-05-22,Jinja,Sugar 2kg,Groceries,3,12000,Mobile Money,New
+TXN0193,2026-05-22,Jinja,Sugar 2kg,Groceries,4,12000,Mobile Money,Regular
+TXN0376,2026-05-22,Entebbe,Jeans,Clothing,2,85000,Card,Regular
+TXN0144,2026-05-22,Jinja,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,Regular
+TXN0398,2026-05-22,Entebbe,Sugar 2kg,Groceries,1,12000,Mobile Money,Regular
+TXN0073,2026-05-22,Kampala,T-Shirt,Clothing,4,45000,Cash,New
+TXN0264,2026-05-23,Entebbe,Shampoo,Personal Care,1,22000,Mobile Money,New
+TXN0304,2026-05-23,Jinja,Headphones,Electronics,4,120000,Mobile Money,Regular
+TXN0477,2026-05-23,Jinja,Blender,Home & Kitchen,2,180000,Mobile Money,New
+TXN0281,2026-05-24,Jinja,Frying Pan,Home & Kitchen,3,65000,Cash,Regular
+TXN0260,2026-05-24,Jinja,T-Shirt,Clothing,3,45000,Card,New
+TXN0361,2026-05-24,Kampala,Toothpaste,Personal Care,3,12000,Mobile Money,Regular
+TXN0425,2026-05-24,Jinja,Toothpaste,Personal Care,3,12000,Cash,New
+TXN0379,2026-05-25,Kampala,Shampoo,Personal Care,1,22000,Cash,New
+TXN0454,2026-05-25,Kampala,Electric Kettle,Home & Kitchen,5,95000,Mobile Money,Regular
+TXN0156,2026-05-25,Entebbe,Body Lotion,Personal Care,1,25000,Cash,New
+TXN0406,2026-05-25,Entebbe,Jacket,Clothing,4,150000,Cash,Regular
+TXN0488,2026-05-25,Kampala,Smartphone,Electronics,2,850000,Cash,Regular
+TXN0032,2026-05-26,Kampala,Toothpaste,Personal Care,1,12000,Card,Regular
+TXN0434,2026-05-26,Jinja,Cooking Oil 3L,Groceries,1,28000,Mobile Money,Regular
+TXN0381,2026-05-27,Entebbe,Body Lotion,Personal Care,5,25000,Card,New
+TXN0334,2026-05-27,Entebbe,Rice 5kg,Groceries,2,32000,Card,New
+TXN0042,2026-05-27,Jinja,Jacket,Clothing,4,150000,Cash,Regular
+TXN0155,2026-05-28,Jinja,Headphones,Electronics,1,120000,Cash,New
+TXN0220,2026-05-29,Entebbe,Smartphone,Electronics,2,850000,Cash,Regular
+TXN0378,2026-05-29,Kampala,T-Shirt,Clothing,2,45000,Card,Regular
+TXN0209,2026-05-30,Kampala,Electric Kettle,Home & Kitchen,2,95000,Mobile Money,Regular
+TXN0020,2026-05-30,Entebbe,Jacket,Clothing,5,150000,Mobile Money,Regular
+TXN0489,2026-05-30,Jinja,Frying Pan,Home & Kitchen,4,65000,Mobile Money,New
+TXN0452,2026-05-30,Entebbe,Jacket,Clothing,1,150000,Card,Regular
+TXN0159,2026-05-31,Entebbe,Shampoo,Personal Care,3,22000,Card,New
+TXN0005,2026-05-31,Entebbe,Electric Kettle,Home & Kitchen,1,95000,Cash,Regular
+TXN0129,2026-06-01,Jinja,Headphones,Electronics,2,120000,Cash,Regular
+TXN0466,2026-06-02,Kampala,Headphones,Electronics,4,120000,Card,New
+TXN0307,2026-06-02,Jinja,Laptop Bag,Electronics,1,85000,Mobile Money,Regular
+TXN0084,2026-06-02,Entebbe,Headphones,Electronics,3,120000,Card,Regular
+TXN0297,2026-06-02,Jinja,T-Shirt,Clothing,4,45000,Mobile Money,New
+TXN0163,2026-06-02,Entebbe,Jacket,Clothing,3,150000,Cash,New
+TXN0253,2026-06-02,Jinja,Blender,Home & Kitchen,3,180000,Mobile Money,Regular
+TXN0189,2026-06-03,Jinja,Toothpaste,Personal Care,2,12000,Cash,Regular
+TXN0303,2026-06-03,Kampala,Jeans,Clothing,3,85000,Cash,Regular
+TXN0262,2026-06-03,Entebbe,Cooking Oil 3L,Groceries,3,28000,Cash,New
+TXN0184,2026-06-05,Kampala,Jeans,Clothing,2,85000,Mobile Money,New
+TXN0274,2026-06-05,Entebbe,Electric Kettle,Home & Kitchen,4,95000,Mobile Money,New
+TXN0085,2026-06-05,Jinja,Blender,Home & Kitchen,1,180000,Mobile Money,New
+TXN0355,2026-06-05,Jinja,Shampoo,Personal Care,4,22000,Cash,New
+TXN0404,2026-06-06,Entebbe,Sugar 2kg,Groceries,2,12000,Mobile Money,Regular
+TXN0208,2026-06-06,Entebbe,Headphones,Electronics,5,120000,Card,New
+TXN0439,2026-06-06,Jinja,Laptop Bag,Electronics,4,85000,Mobile Money,Regular
+TXN0362,2026-06-06,Entebbe,Rice 5kg,Groceries,4,32000,Cash,New
+TXN0328,2026-06-07,Kampala,Electric Kettle,Home & Kitchen,1,95000,Cash,Regular
+TXN0382,2026-06-10,Jinja,Electric Kettle,Home & Kitchen,3,95000,Card,Regular
+TXN0293,2026-06-10,Entebbe,Shampoo,Personal Care,2,22000,Mobile Money,New
+TXN0203,2026-06-11,Jinja,Rice 5kg,Groceries,3,32000,Cash,New
+TXN0496,2026-06-11,Kampala,Laptop Bag,Electronics,1,85000,Card,New
+TXN0014,2026-06-12,Kampala,T-Shirt,Clothing,5,45000,Card,New
+TXN0269,2026-06-12,Kampala,Jacket,Clothing,1,150000,Card,New
+TXN0353,2026-06-13,Kampala,Cooking Oil 3L,Groceries,1,28000,Card,Regular
+TXN0228,2026-06-13,Entebbe,Shampoo,Personal Care,1,22000,Card,New
+TXN0028,2026-06-13,Jinja,Shampoo,Personal Care,5,22000,Cash,New
+TXN0284,2026-06-13,Entebbe,Jacket,Clothing,3,150000,Cash,Regular
+TXN0498,2026-06-13,Jinja,T-Shirt,Clothing,5,45000,Mobile Money,Regular
+TXN0239,2026-06-13,Jinja,Jeans,Clothing,1,85000,Cash,Regular
+TXN0435,2026-06-14,Jinja,Electric Kettle,Home & Kitchen,5,95000,Mobile Money,New
+TXN0371,2026-06-14,Kampala,Sugar 2kg,Groceries,4,12000,Mobile Money,Regular
+TXN0473,2026-06-14,Jinja,Sugar 2kg,Groceries,4,12000,Card,Regular
+TXN0492,2026-06-14,Jinja,Jacket,Clothing,4,150000,Mobile Money,New
+TXN0119,2026-06-14,Entebbe,Headphones,Electronics,2,120000,Mobile Money,New
+TXN0320,2026-06-14,Entebbe,Smartphone,Electronics,3,850000,Card,New
+TXN0249,2026-06-14,Kampala,Electric Kettle,Home & Kitchen,1,95000,Mobile Money,Regular
+TXN0237,2026-06-15,Entebbe,Frying Pan,Home & Kitchen,1,65000,Mobile Money,Regular
+TXN0186,2026-06-15,Kampala,Headphones,Electronics,4,120000,Card,Regular
+TXN0430,2026-06-16,Kampala,Electric Kettle,Home & Kitchen,3,95000,Mobile Money,Regular
+TXN0049,2026-06-16,Jinja,Smartphone,Electronics,1,850000,Cash,New
+TXN0409,2026-06-17,Jinja,Cooking Oil 3L,Groceries,5,28000,Cash,New
+TXN0018,2026-06-17,Entebbe,Rice 5kg,Groceries,4,32000,Card,Regular
+TXN0443,2026-06-17,Entebbe,Cooking Oil 3L,Groceries,2,28000,Cash,New
+TXN0045,2026-06-17,Jinja,Jeans,Clothing,1,85000,Cash,Regular
+TXN0263,2026-06-18,Entebbe,Laptop Bag,Electronics,2,85000,Cash,Regular
+TXN0338,2026-06-18,Jinja,Jacket,Clothing,1,150000,Card,Regular
+TXN0266,2026-06-18,Jinja,T-Shirt,Clothing,3,45000,Cash,New
+TXN0305,2026-06-18,Jinja,Jacket,Clothing,2,150000,Mobile Money,New
+TXN0306,2026-06-19,Kampala,T-Shirt,Clothing,3,45000,Mobile Money,Regular
+TXN0243,2026-06-19,Kampala,Headphones,Electronics,2,120000,Cash,Regular
+TXN0161,2026-06-19,Kampala,Cooking Oil 3L,Groceries,2,28000,Cash,New
+TXN0178,2026-06-19,Entebbe,Cooking Oil 3L,Groceries,5,28000,Cash,Regular
+TXN0257,2026-06-20,Entebbe,Sugar 2kg,Groceries,3,12000,Cash,Regular
+TXN0309,2026-06-21,Entebbe,Jeans,Clothing,5,85000,Mobile Money,New
+TXN0036,2026-06-21,Jinja,Blender,Home & Kitchen,3,180000,Mobile Money,Regular
+TXN0041,2026-06-21,Entebbe,Cooking Oil 3L,Groceries,2,28000,Card,New
+TXN0480,2026-06-22,Jinja,Blender,Home & Kitchen,5,180000,Cash,New
+TXN0407,2026-06-22,Kampala,Sugar 2kg,Groceries,4,12000,Card,Regular
+TXN0173,2026-06-22,Entebbe,Body Lotion,Personal Care,5,25000,Cash,New
+TXN0276,2026-06-23,Jinja,Cooking Oil 3L,Groceries,5,28000,Mobile Money,Regular
+TXN0472,2026-06-23,Entebbe,Jeans,Clothing,5,85000,Mobile Money,New
+TXN0225,2026-06-23,Jinja,Shampoo,Personal Care,4,22000,Card,Regular
+TXN0216,2026-06-25,Jinja,T-Shirt,Clothing,1,45000,Card,Regular
+TXN0068,2026-06-25,Jinja,Rice 5kg,Groceries,3,32000,Card,Regular
+TXN0250,2026-06-25,Kampala,Blender,Home & Kitchen,4,180000,Card,Regular
+TXN0130,2026-06-25,Jinja,Shampoo,Personal Care,1,22000,Card,New
+TXN0413,2026-06-26,Kampala,Blender,Home & Kitchen,4,180000,Card,Regular
+TXN0072,2026-06-26,Kampala,Headphones,Electronics,5,120000,Cash,Regular
+TXN0384,2026-06-26,Kampala,Headphones,Electronics,2,120000,Mobile Money,Regular
+TXN0102,2026-06-28,Jinja,Body Lotion,Personal Care,4,25000,Cash,New
+TXN0447,2026-06-29,Jinja,Blender,Home & Kitchen,4,180000,Card,New
+TXN0267,2026-06-29,Entebbe,Cooking Oil 3L,Groceries,3,28000,Mobile Money,New
+TXN0126,2026-06-29,Entebbe,Electric Kettle,Home & Kitchen,3,95000,Cash,New
+TXN0145,2026-06-29,Entebbe,Sugar 2kg,Groceries,3,12000,Mobile Money,Regular
+TXN0449,2026-06-30,Entebbe,Frying Pan,Home & Kitchen,1,65000,Card,New
+TXN0071,2026-06-30,Entebbe,Frying Pan,Home & Kitchen,5,65000,Cash,New
+TXN0164,2026-06-30,Entebbe,Cooking Oil 3L,Groceries,4,28000,Cash,New
+TXN0187,2026-06-30,Entebbe,Frying Pan,Home & Kitchen,4,65000,Mobile Money,Regular
+TXN0039,2026-07-01,Jinja,Headphones,Electronics,1,120000,Cash,New
+TXN0476,2026-07-01,Kampala,Cooking Oil 3L,Groceries,4,28000,Cash,Regular
+TXN0142,2026-07-02,Entebbe,Jeans,Clothing,4,85000,Cash,New
+TXN0326,2026-07-02,Jinja,Shampoo,Personal Care,3,22000,Cash,New
+TXN0202,2026-07-03,Entebbe,Jeans,Clothing,5,85000,Cash,New
+TXN0386,2026-07-03,Entebbe,Sugar 2kg,Groceries,3,12000,Mobile Money,New
+TXN0199,2026-07-04,Kampala,Smartphone,Electronics,4,850000,Card,New
+TXN0271,2026-07-04,Entebbe,Cooking Oil 3L,Groceries,5,28000,Card,New
+TXN0408,2026-07-05,Jinja,Body Lotion,Personal Care,1,25000,Card,Regular
+TXN0414,2026-07-08,Jinja,Shampoo,Personal Care,1,22000,Card,New
+TXN0077,2026-07-08,Entebbe,Laptop Bag,Electronics,4,85000,Card,New
+TXN0002,2026-07-08,Kampala,Laptop Bag,Electronics,5,85000,Cash,Regular
+TXN0259,2026-07-09,Entebbe,Jacket,Clothing,2,150000,Card,New
+TXN0467,2026-07-09,Kampala,Rice 5kg,Groceries,4,32000,Mobile Money,New
+TXN0282,2026-07-09,Kampala,Shampoo,Personal Care,4,22000,Cash,Regular
+TXN0160,2026-07-09,Kampala,T-Shirt,Clothing,2,45000,Card,New
+TXN0426,2026-07-09,Jinja,T-Shirt,Clothing,2,45000,Cash,New
+TXN0114,2026-07-11,Jinja,Frying Pan,Home & Kitchen,5,65000,Card,New
+TXN0221,2026-07-11,Entebbe,Sugar 2kg,Groceries,2,12000,Cash,New
+TXN0316,2026-07-11,Entebbe,Body Lotion,Personal Care,2,25000,Card,New
+TXN0091,2026-07-11,Kampala,Jeans,Clothing,5,85000,Card,Regular
+TXN0152,2026-07-12,Entebbe,Jeans,Clothing,1,85000,Cash,Regular
+TXN0101,2026-07-12,Kampala,Toothpaste,Personal Care,4,12000,Cash,New
+TXN0097,2026-07-12,Kampala,Shampoo,Personal Care,3,22000,Cash,New
+TXN0061,2026-07-12,Kampala,Toothpaste,Personal Care,1,12000,Mobile Money,New
+TXN0292,2026-07-13,Jinja,Electric Kettle,Home & Kitchen,5,95000,Mobile Money,Regular
+TXN0475,2026-07-13,Jinja,Laptop Bag,Electronics,4,85000,Cash,New
+TXN0027,2026-07-15,Kampala,Frying Pan,Home & Kitchen,5,65000,Cash,Regular
+TXN0391,2026-07-15,Kampala,Rice 5kg,Groceries,4,32000,Card,Regular
+TXN0157,2026-07-15,Entebbe,Frying Pan,Home & Kitchen,5,65000,Card,New
+TXN0029,2026-07-15,Kampala,Sugar 2kg,Groceries,5,12000,Card,New
+TXN0465,2026-07-16,Kampala,T-Shirt,Clothing,2,45000,Cash,New
+TXN0318,2026-07-16,Entebbe,Electric Kettle,Home & Kitchen,4,95000,Card,Regular
+TXN0419,2026-07-17,Entebbe,Cooking Oil 3L,Groceries,2,28000,Card,Regular
+TXN0112,2026-07-17,Jinja,Blender,Home & Kitchen,1,180000,Card,Regular
+TXN0380,2026-07-17,Jinja,Jeans,Clothing,3,85000,Card,New
+TXN0195,2026-07-18,Entebbe,Rice 5kg,Groceries,1,32000,Mobile Money,Regular
+TXN0330,2026-07-18,Entebbe,Headphones,Electronics,2,120000,Mobile Money,New
+TXN0340,2026-07-19,Jinja,Shampoo,Personal Care,4,22000,Card,Regular
+TXN0372,2026-07-19,Jinja,Laptop Bag,Electronics,5,85000,Cash,New
+TXN0345,2026-07-19,Kampala,Shampoo,Personal Care,3,22000,Mobile Money,New
+TXN0052,2026-07-20,Entebbe,Cooking Oil 3L,Groceries,3,28000,Mobile Money,Regular
+TXN0312,2026-07-21,Kampala,Shampoo,Personal Care,5,22000,Card,New
+TXN0093,2026-07-21,Jinja,Blender,Home & Kitchen,5,180000,Card,Regular
+TXN0244,2026-07-21,Kampala,Body Lotion,Personal Care,5,25000,Mobile Money,New
+TXN0308,2026-07-22,Entebbe,Jeans,Clothing,2,85000,Card,New
+TXN0190,2026-07-22,Entebbe,Body Lotion,Personal Care,3,25000,Card,Regular
+TXN0226,2026-07-22,Entebbe,Headphones,Electronics,1,120000,Mobile Money,New
+TXN0095,2026-07-23,Jinja,Body Lotion,Personal Care,2,25000,Card,New
+TXN0254,2026-07-23,Jinja,Headphones,Electronics,1,120000,Card,New
+TXN0493,2026-07-23,Entebbe,Jacket,Clothing,2,150000,Cash,Regular
+TXN0348,2026-07-24,Jinja,Sugar 2kg,Groceries,3,12000,Cash,Regular
+TXN0481,2026-07-25,Jinja,Rice 5kg,Groceries,5,32000,Cash,Regular
+TXN0031,2026-07-26,Entebbe,Toothpaste,Personal Care,2,12000,Cash,New
+TXN0364,2026-07-27,Jinja,Headphones,Electronics,3,120000,Card,Regular
+TXN0317,2026-07-27,Entebbe,Cooking Oil 3L,Groceries,2,28000,Mobile Money,Regular
+TXN0196,2026-07-27,Entebbe,Jacket,Clothing,4,150000,Card,New
+TXN0298,2026-07-27,Jinja,Electric Kettle,Home & Kitchen,2,95000,Mobile Money,Regular
+TXN0469,2026-07-28,Jinja,Rice 5kg,Groceries,5,32000,Mobile Money,Regular
+TXN0065,2026-07-29,Jinja,Jeans,Clothing,3,85000,Card,New
+TXN0127,2026-07-29,Kampala,Body Lotion,Personal Care,3,25000,Cash,New
+TXN0319,2026-07-29,Kampala,Laptop Bag,Electronics,5,85000,Cash,Regular
+TXN0080,2026-07-30,Kampala,Cooking Oil 3L,Groceries,2,28000,Cash,New
+TXN0411,2026-07-30,Jinja,Laptop Bag,Electronics,2,85000,Cash,New
