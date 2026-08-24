@@ -63,3 +63,7 @@ The project uses simulated retail sales transaction data created for learning an
 Author
 
 Deogratius Jjuuko
+
+## Current Status
+
+The dashboard currently supports interactive sales analysis, filtering, product analysis, customer analysis and CSV exports.
