@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("📊 Sales Analytics Dashboard")
 
 st.caption(
-    "Goup 1 Project Dashboard: Interactive retail business intelligence dashboard "
+    "Retail Sales Business Intelligence Dashboard "
     "for monitoring sales performance."
 )
 
@@ -247,6 +247,9 @@ with overview_tab:
                 category_fig,
                 width="stretch"
         )
+        st.caption(
+        "Note: The final month contains partial-month data."
+    )    
 
 
 # Building the Products tab
