@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("📊 Sales Analytics Dashboard")
 
 st.caption(
-    "Interactive retail business intelligence dashboard "
+    "Goup 1 Project Dashboard: Interactive retail business intelligence dashboard "
     "for monitoring sales performance."
 )
 
